@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi !! I am MURTAZA DAWOODJEE:
 💡 I love creating interactive UI/UX & smooth web animations<br><br>🎨 Strong grip on React, Vite, Tailwind, GSAP, Lenis & modern UI<br><br>🔧 Build tools, dashboards, automations, and API integrations<br><br>📡 Currently crafting: Front-end website, Helpline System, Webblers<br><br>🌱 Learning more about Node.js, serverless functions & WebGL shaders
 
 
