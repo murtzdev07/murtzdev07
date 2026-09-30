@@ -1,18 +1,54 @@
-# Hi !! I am MURTAZA DAWOODJEE:
-💡 I love creating interactive UI/UX & smooth web animations<br><br>🎨 Strong grip on React, Vite, Tailwind, Node, Express , Prisma & modern UI<br><br>🔧 Build tools, dashboards, automations, and API integrations<br><br>📡 Currently crafting: Front-end website, Helpline System, Webblers , ERP Systems<br><br>🌱 Learning more about Node.js, serverless functions & WebGL shaders
+<div align="center">
+  <!-- Dynamic Waving Header with Twinkling Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Murtaza%20Dawoodjee&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Interactive+UI%2FUX+Developer;Building+smooth+web+animations;Crafting+ERP+%26+Helpline+Systems;Full-Stack+Web+Engineer" alt="Typing SVG" />
+  </a>
 
+  <!-- Social Links -->
+  <br/>
+  <a href="https://linkedin.com/in/murtaza-dawoodjee"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/murtaza_0710"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:murtazadawoodjee.connect@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murtaza_0710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murtaza-dawoodjee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtazadawoodjee.connect@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=murtzdev07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=murtzdev07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=murtzdev07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💡 About Me
+- 🎨 **Focus:** Strong grip on React, Vite, Tailwind, Node, Express, Prisma & modern UI.
+- 🔧 **Engineering:** Building tools, dashboards, automations, and API integrations.
+- 📡 **Currently Crafting:** Front-end websites, Helpline Systems, Webblers, ERP Systems.
+- 🌱 **Leveling Up:** Deep diving into Node.js, serverless functions & WebGL shaders.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Arsenal
+<!-- Using Skill Icons for a cleaner, unified, and aesthetic look -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,nodejs,express,prisma,php,java,c,cpp,python,mysql,mongodb,aws,gcp,vercel,heroku,git,github,figma,illustrator&perline=8" />
+  </a>
+</div>
+
+<br/>
+
+### 📊 GitHub Activity
+<!-- Aligning stats side-by-side using table layout, unified with the "tokyonight" theme -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murtzdev07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtzdev07&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Langs" />
+</div>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=murtzdev07&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<br/>
+
+<!-- Placeholder for the Contribution Snake Animation -->
+### 🐍 Contribution Graph
+<div align="center">
+  <!-- Once you set up the action below, the snake will appear here -->
+  <img src="https://raw.githubusercontent.com/murtzdev07/murtzdev07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
