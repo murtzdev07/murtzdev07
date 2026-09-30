@@ -35,12 +35,18 @@
 <br/>
 
 ### 📊 GitHub Activity
+### 📊 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murtzdev07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/murtzdev07)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtzdev07&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/murtzdev07)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murtzdev07&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtzdev07&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murtzdev07&theme=tokyonight&hide_border=true)](https://github.com/murtzdev07)
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtzdev07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 <br/>
 
 <!-- Placeholder for the Contribution Snake Animation -->
