@@ -28,7 +28,7 @@
 <!-- Using Skill Icons for a cleaner, unified, and aesthetic look -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,nodejs,express,prisma,php,java,c,cpp,python,mysql,mongodb,aws,gcp,vercel,heroku,git,github,figma,illustrator&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,supabase,vscode,androidstudio,netlify,js,html,css,nodejs,express,prisma,php,java,c,cpp,python,mysql,mongodb,aws,gcp,vercel,heroku,git,github,figma,illustrator&perline=8" />
   </a>
 </div>
 
