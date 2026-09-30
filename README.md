@@ -35,11 +35,17 @@
 <br/>
 
 ### 📊 GitHub Activity
-### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtzdev07&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtzdev07&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murtzdev07&theme=tokyonight" alt="GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murtzdev07&theme=tokyonight" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtzdev07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
