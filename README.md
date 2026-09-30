@@ -35,14 +35,11 @@
 <br/>
 
 ### 📊 GitHub Activity
-<!-- Aligning stats side-by-side using table layout, unified with the "tokyonight" theme -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtzdev07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtzdev07&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Langs" />
-</div>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=murtzdev07&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murtzdev07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/murtzdev07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtzdev07&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/murtzdev07)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murtzdev07&theme=tokyonight&hide_border=true)](https://github.com/murtzdev07)
 
 <br/>
 
